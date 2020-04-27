@@ -2,7 +2,7 @@
  * @summary
  * Scraper
  * @author Xavier 
- * @copyright Xavier.
+ * @copyright Xavier
  * @
  */
 
